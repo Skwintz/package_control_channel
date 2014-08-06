@@ -1,4 +1,6 @@
-{
-  "title": "Package Control",
-  "repo": "git@github.com:Skwintz/package_control.git"
-}
+[
+  {
+    "title": "Package Control",
+    "repo": "git@github.com:Skwintz/package_control.git"
+  }
+]
